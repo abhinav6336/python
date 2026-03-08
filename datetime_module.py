@@ -1,5 +1,4 @@
 import datetime
-
 #CREATING DATE
 d = datetime.date(2016,7,21)
 print(d)
