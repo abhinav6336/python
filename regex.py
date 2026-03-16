@@ -11,10 +11,10 @@ MetaCharacters (Need to be escaped)
 coreyms.com
 321-555-4321
 123.533.1234
-Mr.Schafer
-Mr Smith
-Mr Davis 
-MRS. Robinson
+Mr.Abhinav
+Mr sanskar
+Ms. mahima
+MRS. komal
 Mr.T
 '''
 sentence = " Start a sentence then bring it to end"
