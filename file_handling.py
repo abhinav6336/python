@@ -19,12 +19,12 @@ f.seek(0)
 
 
 #reading small chunks 
-nolines = 3
-f_contents = f.read(nolines)
+noofcharacters = 3
+f_contents = f.read(noofcharacters)
 while len(f_contents) > 0:
 	print(f_contents)
 	print(f.tell()) #tells the position of the pointer
-	f_contents = f.read(nolines)
+	f_contents = f.read(noofcharacters)
 
 #iterating the file
 for line in f:
